@@ -14,4 +14,4 @@
 ## Responsividade
 - Para todos os tipos de dispositivos.
 
-Projeto criardo e disponibilizado através do curso <a style="text-decoration: underline; color: white;" target="_blank" href="https://www.instagram.com/devemdobro/">Dev em dobro</a>.
+Projeto criado e disponibilizado através do curso <a style="text-decoration: underline; color: white;" target="_blank" href="https://www.instagram.com/devemdobro/">Dev em dobro</a>.
